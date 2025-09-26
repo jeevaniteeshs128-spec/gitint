@@ -1,3 +1,4 @@
 # gitint
-git inint
+git init
+
 
